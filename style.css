@@ -1,0 +1,18 @@
+.container canvas {
+  margin: auto;
+  display: block;
+}
+
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.scary-doors {
+  display: none;
+}
+
+.hcenter {
+  width: 50%;
+  margin: 0 auto;
+}
